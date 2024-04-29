@@ -1,4 +1,4 @@
-Camila Herrera COM3 121272/6
+//Camila Herrera COM3 121272/6
 
 PImage img;
 
